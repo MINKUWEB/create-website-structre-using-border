@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+</head>
+<body>
+<div style=" width: 100%; height: 180px; border: 2px; border-color: red; border-style: solid;" ></div>
+<div style=" width: 100%; height: 40px; border: 2px; border-color: red; border-style: solid; ">
+	<table border="1" >
+	<tr>
+		<td>HOME</td>
+		<td>Service</td>
+		<td>About</td>
+		<td>Contact</td>
+
+
+
+	</tr>
+	</table>
+</div>
+<div style=" width: 100%; height: 470px; border: 2px; border-color: red; border-style: solid;" ></div>
+<div style=" width: 100%; height: 40px; border: 2px; border-color: red; border-style: solid; "></div>
+</body>
+</html>
